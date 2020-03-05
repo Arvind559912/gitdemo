@@ -2,6 +2,7 @@
 #include <cstdio>
 using namespace std;
 int a;
+int t;
 long b;
 char c;
 float d;
