@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdio>
-using namespace std;
+using namespace std;//sggeeg
 int a;
 int t;
 long b;
